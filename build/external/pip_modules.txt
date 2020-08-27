@@ -4,3 +4,4 @@ Js2Py
 chromedriver-autoinstaller
 html2text
 requests
+rosehip
